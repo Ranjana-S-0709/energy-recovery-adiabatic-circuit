@@ -35,8 +35,8 @@ Power-clock waveform
 Charging and discharging behavior
 Power consumption
 Energy recovery
-📊 Results
 
+📊 Results
 The simulation demonstrates the potential of adiabatic logic for reducing power dissipation compared with conventional CMOS logic.
 
 The energy recovery technique helps improve power efficiency by recovering a portion of the energy stored in the load capacitance.
@@ -51,21 +51,9 @@ Battery-powered systems
 Energy-efficient processors
 Low-power digital systems
 IoT devices
-📁 Project Contents
-Energy-Recovery-Circuit/
-│
-├── LTspice/
-│   └── Simulation files
-│
-├── Microwind/
-│   └── Layout files
-│
-├── Images/
-│   └── Circuit and simulation results
-│
-└── README.md
-👩‍💻 Developed By
 
+
+👩‍💻 Developed By
 Ranjana S
 Electronics and Communication Engineering
 
