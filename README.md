@@ -20,6 +20,7 @@ Adiabatic logic uses a slowly varying power-clock signal to charge and discharge
 
 Basic Working
 -> The input signals are applied to the adiabatic logic circuit.
+
 -> A power-clock signal controls the charging and discharging process.
 -> The load capacitance is charged gradually.
 -> During the recovery phase, stored energy is returned to the power supply.
