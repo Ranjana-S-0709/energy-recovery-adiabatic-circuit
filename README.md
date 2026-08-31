@@ -77,11 +77,6 @@ Adiabatic logic and energy recovery techniques can be useful in:
 ~ IoT devices
 
 
-👩‍💻 Developed By
-
-Ranjana S
-Electronics and Communication Engineering
-
 ⭐ Key Learning
 
 Through this project, I gained practical knowledge of:
