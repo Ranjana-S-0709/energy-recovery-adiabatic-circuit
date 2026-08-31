@@ -22,18 +22,26 @@ Basic Working
 -> The input signals are applied to the adiabatic logic circuit.
 
 -> A power-clock signal controls the charging and discharging process.
+
 -> The load capacitance is charged gradually.
+
 -> During the recovery phase, stored energy is returned to the power supply.
+
 -> This reduces the overall energy dissipation.
 
 🔬 Simulation
 The circuit was designed and simulated using LTspice.
 
 The simulation was used to observe:
+
 Input and output waveforms
+
 Power-clock waveform
+
 Charging and discharging behavior
+
 Power consumption
+
 Energy recovery
 
 📊 Results
