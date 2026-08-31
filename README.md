@@ -19,17 +19,16 @@ In conventional CMOS circuits, energy stored in the load capacitance is mostly d
 Adiabatic logic uses a slowly varying power-clock signal to charge and discharge the capacitive load gradually. This reduces energy loss and allows part of the stored energy to be recovered back to the power supply.
 
 Basic Working
-The input signals are applied to the adiabatic logic circuit.
-A power-clock signal controls the charging and discharging process.
-The load capacitance is charged gradually.
-During the recovery phase, stored energy is returned to the power supply.
-This reduces the overall energy dissipation.
-🔬 Simulation
+-> The input signals are applied to the adiabatic logic circuit.
+-> A power-clock signal controls the charging and discharging process.
+-> The load capacitance is charged gradually.
+-> During the recovery phase, stored energy is returned to the power supply.
+-> This reduces the overall energy dissipation.
 
+🔬 Simulation
 The circuit was designed and simulated using LTspice.
 
 The simulation was used to observe:
-
 Input and output waveforms
 Power-clock waveform
 Charging and discharging behavior
@@ -40,18 +39,6 @@ Energy recovery
 The simulation demonstrates the potential of adiabatic logic for reducing power dissipation compared with conventional CMOS logic.
 
 The energy recovery technique helps improve power efficiency by recovering a portion of the energy stored in the load capacitance.
-
-🚀 Applications
-
-Adiabatic logic and energy recovery techniques can be useful in:
-
-Low-power VLSI circuits
-Portable electronic devices
-Battery-powered systems
-Energy-efficient processors
-Low-power digital systems
-IoT devices
-
 
 👩‍💻 Developed By
 Ranjana S
