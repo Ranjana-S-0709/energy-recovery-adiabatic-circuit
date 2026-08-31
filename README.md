@@ -5,9 +5,13 @@ This project focuses on designing and simulating a low-power CMOS energy recover
 
 🎯 Objectives
 -> Design a low-power digital circuit using adiabatic logic.
+
 -> Reduce power dissipation compared with conventional CMOS logic.
+
 -> Recover and reuse energy during circuit operation.
+
 -> Analyze the power consumption of the designed circuit.
+
 -> Verify the circuit through simulation.
 
 🛠️ Tools Used
@@ -25,9 +29,13 @@ Adiabatic logic uses a slowly varying power-clock signal to charge and discharge
 Basic Working:
 
 -> The input signals are applied to the adiabatic logic circuit.
+
 -> A power-clock signal controls the charging and discharging process.
+
 -> The load capacitance is charged gradually.
+
 -> During the recovery phase, stored energy is returned to the power supply.
+
 -> This reduces the overall energy dissipation.
 
 🔬 Simulation
